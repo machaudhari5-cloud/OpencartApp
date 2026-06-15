@@ -1,0 +1,217 @@
+2026-06-02 22:44:04 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-02 22:44:04 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-02 22:44:04 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-02 22:44:04 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-02 22:44:06 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-02 22:44:16 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id="content" and @class="col-sm-9"]//child::p[text()='Congratulations! Your new account has been successfully created!']"}
+  (Session info: chrome=148.0.7778.181)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab32b92a77d40e6e3332ba08d523bb04, findElement {using=xpath, value=//div[@id="content" and @class="col-sm-9"]//child::p[text()='Congratulations! Your new account has been successfully created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.181, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58450}, goog:processID: 12188, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58450/devtoo..., se:cdpVersion: 148.0.7778.181, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ab32b92a77d40e6e3332ba08d523bb04
+2026-06-02 22:49:27 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-02 22:49:27 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-02 22:49:28 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-02 22:49:28 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-02 22:49:29 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-02 22:49:40 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id="content" and @class="col-sm-9"]//child::p[text()='Congratulations! Your new account has been successfully created!']"}
+  (Session info: chrome=148.0.7778.181)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8c15ff090305c97240c9e497fcea40a6, findElement {using=xpath, value=//div[@id="content" and @class="col-sm-9"]//child::p[text()='Congratulations! Your new account has been successfully created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.181, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58635}, goog:processID: 7712, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58635/devtoo..., se:cdpVersion: 148.0.7778.181, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8c15ff090305c97240c9e497fcea40a6
+2026-06-03 11:52:00 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 11:52:00 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 11:52:00 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 11:52:00 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 11:52:02 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 11:52:12 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='content' and @class='col-sm-9']//child::h1[text()='Your Account Has Been Created!']"}
+  (Session info: chrome=148.0.7778.217)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.43.0', revision: 'dd0f534'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [461e1bd68be14802db6bc479b6f8fd97, findElement {using=xpath, value=//div[@id='content' and @class='col-sm-9']//child::h1[text()='Your Account Has Been Created!']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.217, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\Users\LENOVO\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:15894}, goog:processID: 12200, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:15894/devtoo..., se:cdpVersion: 148.0.7778.217, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 461e1bd68be14802db6bc479b6f8fd97
+2026-06-03 11:52:12 [main] ERROR TC001_AccountRegistrationTest - Account registration failed. Expected confirmation message not received.
+2026-06-03 11:56:22 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 11:56:23 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 11:56:23 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 11:56:23 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 11:56:25 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 11:57:09 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 11:57:09 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 11:57:10 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 11:57:10 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 11:57:12 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 12:02:28 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 12:02:28 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 12:02:29 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 12:02:29 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 12:02:32 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 12:07:00 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 12:07:00 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 12:07:00 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 12:07:00 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 12:07:03 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 12:07:03 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+2026-06-03 12:07:03 [main] ERROR TC001_AccountRegistrationTest - Account registration failed. Expected confirmation message not received.
+2026-06-03 12:10:37 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 12:10:37 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 12:10:39 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 12:10:39 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 12:10:43 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 12:10:43 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+2026-06-03 12:10:43 [main] INFO  TC001_AccountRegistrationTest - Account registration successful
+2026-06-03 20:28:23 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 20:28:23 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 20:28:25 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 20:28:25 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 20:28:27 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 20:28:27 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+2026-06-03 20:28:27 [main] INFO  TC001_AccountRegistrationTest - Account registration successful
+2026-06-03 22:17:26 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 22:17:26 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 22:17:27 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 22:17:27 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 22:17:30 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 22:17:30 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+2026-06-03 22:17:30 [main] INFO  TC001_AccountRegistrationTest - Account registration successful
+2026-06-03 22:17:44 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 22:17:44 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 22:17:45 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 22:17:45 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 22:17:48 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 22:17:48 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+2026-06-03 22:17:48 [main] INFO  TC001_AccountRegistrationTest - Account registration successful
+2026-06-03 22:18:01 [main] INFO  TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2026-06-03 22:18:01 [main] INFO  TC001_AccountRegistrationTest - Clicked on My Account link
+2026-06-03 22:18:03 [main] INFO  TC001_AccountRegistrationTest - Clicked on Register link
+2026-06-03 22:18:03 [main] INFO  TC001_AccountRegistrationTest - Filling the registration form with random data
+2026-06-03 22:18:05 [main] INFO  TC001_AccountRegistrationTest - Submitted the registration form
+2026-06-03 22:18:05 [main] INFO  TC001_AccountRegistrationTest - Confirmation message received: Your Account Has Been Created!
+2026-06-03 22:18:05 [main] INFO  TC001_AccountRegistrationTest - Account registration successful
+2026-06-04 23:42:51 [main] INFO  TC002_LoginTest - *******Starting TC002_LoginTest ********* 
+2026-06-05 00:04:22 [main] INFO  TC002_LoginTest - *******Starting TC002_LoginTest ********* 
+2026-06-05 10:55:19 [main] INFO  TC002_LoginTest - *******Starting TC002_LoginTest ********* 
+2026-06-05 11:14:12 [main] INFO  TC002_LoginTest - *******Starting TC002_LoginTest ********* 
+2026-06-05 11:23:01 [main] INFO  TC002_LoginTest - *******Starting TC002_LoginTest ********* 
+2026-06-05 11:34:03 [main] INFO  TC002_LoginTest - *******Starting TC002_LoginTest ********* 
+2026-06-05 12:20:21 [main] INFO  TC002_LoginTest - *******Starting TC002_LoginTest ********* 
+2026-06-05 12:20:29 [main] INFO  TC002_LoginTest - ******TC002_LoginTest Ended*******
+2026-06-06 19:31:10 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:31:13 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 19:31:13 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:31:23 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:31:33 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:31:44 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:37:08 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:37:12 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 19:37:12 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:37:22 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:37:32 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:37:42 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:46:48 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:46:51 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 19:46:51 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:47:01 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:47:11 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 19:47:21 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:40:47 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:40:51 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 21:40:51 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:40:53 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 21:40:53 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:41:03 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 21:41:03 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:41:13 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 21:41:13 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:41:23 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 21:48:01 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:48:06 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 21:48:06 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:48:09 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:48:21 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 21:48:21 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:48:34 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 21:48:34 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 21:48:47 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 23:43:00 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 23:43:06 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 23:43:06 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 23:43:09 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 23:43:21 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 23:43:21 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 23:43:25 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-06 23:43:25 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-06 23:43:37 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:02:43 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:02:46 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:02:56 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:02:56 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:03:06 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:03:06 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:03:16 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:03:16 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:03:27 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:03:53 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:03:55 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:03:55 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:03:58 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:04:10 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:04:10 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:04:22 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:04:22 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:04:35 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:14:40 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:16:15 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:16:38 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:19:57 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:20:17 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:20:17 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:20:53 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:20:53 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:21:17 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:21:20 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:21:20 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:21:23 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:21:35 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:21:35 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:21:48 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:21:48 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:22:01 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:23:23 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:23:27 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:23:27 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:23:30 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:23:30 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:23:42 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:23:42 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:23:54 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:23:54 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:24:07 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:27:41 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:27:45 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:27:45 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:27:47 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:27:59 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:27:59 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:28:11 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:28:11 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:28:22 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:39:56 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:39:59 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:39:59 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:40:19 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:40:34 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:40:34 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:40:47 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
+2026-06-07 00:40:47 [main] INFO  TC003_LoginDDT - ********* Starting TC003_LoginDDT *********
+2026-06-07 00:40:50 [main] INFO  TC003_LoginDDT - ********* Finished TC003_LoginDDT *********
